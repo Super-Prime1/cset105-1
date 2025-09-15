@@ -173,10 +173,12 @@ function betterMTable(){
             b=b2; // resets a and b to what the user entered so it doesnt break the loop
         }
     }
+    
 }
 
 //console.log("\nThis is the second multiplication table");
 // console.log(betterMTable());
 
-<p>yuh</p>
+//<p>yuh</p>
+//<p></p>
 
