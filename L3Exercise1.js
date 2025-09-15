@@ -178,4 +178,5 @@ function betterMTable(){
 //console.log("\nThis is the second multiplication table");
 // console.log(betterMTable());
 
+<p>yuh</p>
 
